@@ -1,0 +1,228 @@
+/*home*/
+.common-p
+{
+  font-size: 25px;
+  text-align: left;
+}
+.sup-h
+{
+padding-bottom: 4% 
+}
+}
+#title
+{
+  text-align:center;
+  font-family: 'Montserrat', sans-serif;
+
+}
+.home-banner
+{
+  padding: 6%;
+}
+.img-banner
+{
+width: 70%  ;
+margin-top:1%;
+}
+.home-h1
+{
+  padding: 10% ;
+}
+
+
+
+
+/*About Us*/
+
+
+
+
+#aboutus
+{
+  padding-left: 3%;
+  text-align:center;
+  font-family: 'Montserrat', sans-serif;
+}
+.img-aboutus
+{
+  margin-top:10%;
+    width: 70%;
+}
+.aboutus-content{
+  padding:10%;
+}
+.aboutus-h2
+{
+  font-size: 40px;
+
+  text-align:enter;
+}
+
+
+
+
+/*Produts*/
+
+#products{
+  text-align:center;
+  font-family: 'Montserrat', sans-serif;
+
+}
+.product-heading
+{
+font-weight: bold;
+}
+.product-p
+{
+  color: gray;
+  font-size: 20px;
+  padding: 1%;
+}
+.product-main
+{
+  padding:5% 6%;
+}
+.product-row
+{
+  padding:2% 5%;
+}
+.content{
+  padding:  2% ;
+}
+.card-link
+{
+color: #000;
+
+}
+.last-card
+{
+  margin-bottom: 10%;
+}
+/*Clients*/
+#clients
+{
+
+  text-align: center;
+  padding:6% 10%;
+
+  font-family: 'Montserrat', sans-serif;
+}
+.clients-img
+{
+  padding: 3% 3%;
+}
+/*.carousel-control-prev, .carousel-control-next
+{
+  height:100px;
+  width: 100px;
+  outline: black;
+  background-color: #000;
+  border: :1 px solid black;
+}*/
+.carousel-sec
+{
+  height: 20%;
+
+}
+.clients-h2
+{
+  padding-bottom:4%;
+}
+
+
+
+/*Customer Support */
+
+
+
+
+#cussup
+{
+  padding-top: 5%;
+  text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.cussoppurt
+{
+  padding: 3% ;
+}
+.sup-img
+{
+  padding-top:7%;
+}
+/*Testimonials */
+
+#testimonials{
+
+    text-align: center;
+    padding:10% 1% 0% 1%;
+      font-family: 'Montserrat', sans-serif;
+
+}
+.testimonial-text
+{
+  padding: 2% 10%;
+}
+.testimonial-text1
+{
+  font-size: 30px;
+  padding: 2% 10%;
+}
+.testi-image
+{
+  width:10%;
+  border-radius: 100%;
+  margin-top:2rem;
+}
+.carousel.items{
+  padding: 7% 15%;
+}
+.testidiv
+{
+  height: 300px;
+}
+
+/*Careers */
+
+#Careers
+{
+    margin-top: 5%;
+    padding:10% 5%;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+.career-p
+{
+  padding-top: 4%;
+}
+.career-p
+{
+    font-size: 20px;
+    padding-top: 2%;
+}
+
+/*contatus */
+#contact
+{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+.contact-p
+{
+  padding-top: 3%;
+}
+.contact-h
+{
+  padding-top: 3%;
+}
+#footer
+{
+  padding-top: 3%;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+
+}
+.fot-cpy
+{
+  color: gray;
+}
